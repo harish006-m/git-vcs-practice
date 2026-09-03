@@ -1,3 +1,4 @@
 Profile Update Feature
 
 Users can update their profile information.
+Profile fields include name, email and phone number.
